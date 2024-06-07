@@ -1,0 +1,14 @@
+{
+  "name": "engli-json",
+  "module": "src/index.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "js-toml": "^1.0.0"
+  }
+}
